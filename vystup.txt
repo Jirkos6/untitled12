@@ -1,0 +1,8 @@
+negr;20;1203
+cernej;30;400
+bilej;30;200
+zrzatec;40;50
+negr;20;1203
+cernej;30;400
+bilej;30;200
+zrzatec;40;50
